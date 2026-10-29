@@ -1,0 +1,6 @@
+# IMDb data: too large for GitHub, and not ours to redistribute
+data/raw/title.*.tsv.gz
+
+# Mac and Jupyter clutter
+.DS_Store
+.ipynb_checkpoints/
