@@ -4,3 +4,8 @@ data/raw/title.*.tsv.gz
 # Mac and Jupyter clutter
 .DS_Store
 .ipynb_checkpoints/
+
+# Secret API keys: never upload
+.env
+
+data/raw/youtube_comments.csv

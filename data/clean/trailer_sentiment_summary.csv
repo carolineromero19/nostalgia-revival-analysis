@@ -1,0 +1,11 @@
+event,comments,before_premiere,avg_sentiment,pct_positive,pct_negative,pct_nostalgic
+Hannah Montana 20th Anniversary Special,100,95,0.36,62.0,7.0,6.0
+Wizards Beyond Waverly Place,1087,920,0.22,50.51,17.11,6.35
+Friends: The Reunion,475,106,0.2,49.26,23.16,2.32
+Zoey 102,1754,1293,0.18,47.15,19.9,5.3
+Gilmore Girls: A Year in the Life,105,1,0.16,47.62,22.86,1.9
+Gossip Girl (reboot),2777,2362,0.15,47.93,28.34,0.94
+iCarly (revival),7400,6791,0.13,41.95,22.51,6.27
+Saved by the Bell (revival),1093,829,0.1,38.43,25.43,2.65
+That '90s Show,457,255,0.1,43.33,31.07,2.84
+Fuller House,1842,1814,0.06,33.71,24.76,3.26
